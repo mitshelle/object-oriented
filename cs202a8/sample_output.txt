@@ -1,0 +1,130 @@
+***********************************
+SIMULATION BEGINS FOR FOREST WITH tiger1 and deer1
+tiger1 is moving
+tiger1 is moving
+tiger1 is moving
+tiger1 is moving
+tiger1 is moving
+tiger1 is moving
+tiger1 is moving
+tiger1 finished moving
+deer1 is moving
+deer1 is moving
+deer1 is moving
+deer1 is moving
+deer1 went out of the forest
+X	X	X	D	X	X	X	
+
+T	T	T	TD	D	D	X	
+
+T	X	X	T	X	X	X	
+
+T	X	X	T	X	X	X	
+
+X	X	X	X	X	X	X	
+
+X	X	X	X	X	X	X	
+
+X	X	X	X	X	X	X	
+
+tiger1 EATS deer1
+SIMULATION ENDS
+***********************************
+***********************************
+SIMULATION BEGINS FOR FOREST WITH deer2 and grass1
+deer2 is moving
+deer2 is moving
+deer2 is moving
+deer2 is moving
+deer2 is moving
+deer2 is moving
+deer2 finished moving
+grass1 is moving
+grass1 is moving
+grass1 is moving
+grass1 is moving
+grass1 is moving
+grass1 is moving
+grass1 finished moving
+X	X	X	G	G	
+
+D	D	D	DG	X	
+
+X	X	G	DG	D	
+
+X	X	G	G	D	
+
+X	X	X	X	X	
+
+deer2 COULDN'T FIND grass1
+SIMULATION ENDS
+***********************************
+***********************************
+SIMULATION BEGINS FOR FOREST WITH tiger2 and grass2
+tiger2 is moving
+tiger2 is moving
+tiger2 is moving
+tiger2 is moving
+tiger2 is moving
+tiger2 is moving
+tiger2 went out of the forest
+grass2 is moving
+grass2 is moving
+grass2 is moving
+grass2 is moving
+grass2 finished moving
+X	G	G	G	X	
+
+X	T	T	G	X	
+
+X	T	T	TG	T	
+
+tiger2 FINDS grass2 but TIGER doesn't eat grass
+SIMULATION ENDS
+***********************************
+***********************************
+SIMULATION BEGINS FOR FOREST WITH tiger3 and deer3
+tiger3 is moving
+tiger3 is moving
+tiger3 is moving
+tiger3 is moving
+tiger3 is moving
+tiger3 is moving
+tiger3 is moving
+tiger3 is moving
+tiger3 is moving
+tiger3 is moving
+tiger3 is moving
+tiger3 is moving
+tiger3 finished moving
+deer3 is moving
+deer3 is moving
+deer3 is moving
+deer3 is moving
+deer3 is moving
+deer3 is moving
+deer3 is moving
+deer3 is moving
+deer3 is moving
+deer3 is moving
+deer3 is moving
+deer3 finished moving
+X	X	X	X	X	X	D	D	D	X	
+
+X	X	X	X	X	X	X	X	D	X	
+
+X	X	X	X	X	X	X	X	D	X	
+
+X	X	X	T	T	X	X	X	D	X	
+
+X	T	X	T	X	X	X	X	D	X	
+
+X	T	X	T	X	D	D	D	D	X	
+
+T	T	X	T	X	D	X	X	X	X	
+
+T	T	T	T	X	X	X	X	X	X	
+
+tiger3 COULDN'T FIND deer3
+SIMULATION ENDS
+***********************************
