@@ -1,0 +1,32 @@
+Nonalphanumeric Replacement Log file:
+machine, --> machine
+h. --> h
+g. --> g
+whatsoever. --> whatsoever
+it, --> it
+re-use --> reuse
+www.gutenberg.net --> wwwgutenbergnet
+title: --> title
+author: --> author
+h. --> h
+g. --> g
+date: --> date
+2, --> 2
+2 --> NONALPHA
+2004 --> NONALPHA
+[ebook --> ebook
+#35] --> 35
+35 --> NONALPHA
+updated: --> updated
+14, --> 14
+14 --> NONALPHA
+2018 --> NONALPHA
+language: --> language
+encoding: --> encoding
+utf-8 --> utf8
+utf8 --> NONALPHA
+*** --> 
+*** --> 
+h. --> h
+g. --> g
+50 --> NONALPHA

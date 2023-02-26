@@ -1,0 +1,56 @@
+/*int counter = 2;
+  int x = 0;
+
+  string rawArr[10]; //{"i", "smell", "like"};
+  test unique[10]; // {, "poo", "nice"};
+  
+  rawArr[0] = "i";
+  rawArr[1] = "smell";
+  rawArr[2] = "like";
+  unique[0].word = "smell";
+  unique[1].word = "poo";
+  unique[2].word = "nice";
+
+
+  for(int i = 0; i < 5; i++){
+    //cout << unique[i].frequency+1 <<endl;
+    x = inList(rawArr[i], unique, 12);
+    if(x == -1){
+      counter++;
+      unique[counter].word = rawArr[i];
+    }else{
+      unique[i].frequency+=1;
+      //cout << unique[counter] << endl;
+    }
+    cout << unique[i].word << " ";
+    cout << unique[i].frequency <<endl;
+  }
+  cout << endl;
+  for(int i = 0; i < 5; i++){
+    cout << unique[i].word << endl;
+  }
+  cout << endl;
+  for(int i = 0; i < 5; i++){
+    cout << rawArr[i] << endl;
+  
+  }*/
+  /*int inList(string word, struct test list[], int count){
+  int index = -1;
+  int counter = 0;
+	for(int i = 0; i < count; i++){
+		//if string present returns index
+		if(list[i].word == word){
+      index = i;
+	  }
+  }
+  return index;
+}*/
+
+/*for(int j = 1; j < bigramCount; j++){
+      cout << bigram[j].word1 << " ";
+      cout << bigram[j].word2 << endl;
+      cout << bigram[j].frequency << endl;
+      if(wordCount > 2){
+      numOfBigrams = wordCount - 1;
+    }
+    }*/

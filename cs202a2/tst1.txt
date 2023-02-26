@@ -1,0 +1,1288 @@
+[3J[H[2J
+************************************************************
+Welcome to the CS 202 Game of Twenty Six
+
+Initial Bank amount must be between 10 and 200
+Enter Initial bank Amount: Error, invalid bank amount, please re-enter.
+Initial Bank amount must be between 10 and 200
+Enter Initial bank Amount: Error, invalid bank amount, please re-enter.
+Initial Bank amount must be between 10 and 200
+Enter Initial bank Amount: Error, invalid bank amount, please re-enter.
+Initial Bank amount must be between 10 and 200
+Enter Initial bank Amount: 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   5   4   2   6   2   5   1   4   2   3
+   2   3   2   6   5   1   1   5   5   6
+   3   4   4   3   3   3   2   2   2   6
+   1   1   1   6   4   2   5   2   5   4
+   4   4   6   3   2   3   3   6   1   6
+   5   2   3   3   4   3   3   5   2   4
+   4   3   4   3   6   5   4   2   6   1
+   4   1   4   3   4   3   3   4   3   2
+   1   1   3   3   1   4   6   3   2   1
+   1   3   1   2   5   5   1   1   6   4
+   5   3   5   6   4   6   3   4   1   5
+   3   2   3   3   2   4   6   5   6   5
+   4   4   2   4   6   4   6   4   2   4
+
+Initial Bank:   50
+Point Value:    2
+Score:          21
+Payout Amount:  0     You lost.  :-(
+Current Bank:   49
+
+Play Another Round? (Y/y/N/n): Error, must respond 'Y', 'y', 'N', or 'n'.
+Please try again.
+Play Another Round? (Y/y/N/n): Error, must respond 'Y', 'y', 'N', or 'n'.
+Please try again.
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   6   4   1   6   5   6   6   3   5   4
+   3   6   4   6   1   1   5   6   5   4
+   1   6   3   2   3   4   2   6   6   5
+   3   3   2   3   2   5   3   5   1   5
+   6   3   4   4   6   2   4   5   5   6
+   6   5   6   6   1   2   3   2   6   2
+   4   2   3   3   4   4   1   4   3   5
+   2   2   6   3   3   5   5   5   1   1
+   4   4   6   1   3   4   1   6   3   6
+   5   6   5   1   6   6   3   5   4   3
+   1   3   2   4   4   5   3   6   3   1
+   6   4   5   3   5   5   6   5   4   2
+   2   1   5   6   1   3   5   1   1   6
+
+Initial Bank:   50
+Point Value:    5
+Score:          25
+Payout Amount:  0     You lost.  :-(
+Current Bank:   48
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   5   1   3   3   4   1   3   1   1   3
+   6   4   5   3   6   4   6   4   5   2
+   3   5   4   2   6   6   5   4   4   2
+   1   3   2   3   3   3   1   5   3   1
+   1   1   2   4   1   2   1   6   3   5
+   5   4   4   3   3   1   6   1   4   2
+   1   2   2   6   2   4   3   2   2   3
+   6   6   1   6   3   1   5   1   5   5
+   6   3   2   1   3   5   1   3   3   2
+   4   3   2   5   3   3   6   3   3   1
+   3   6   4   4   5   1   2   3   5   6
+   6   4   3   1   2   5   5   6   5   2
+   2   6   2   3   2   2   3   1   4   5
+
+Initial Bank:   50
+Point Value:    3
+Score:          31
+Payout Amount:  0     You lost.  :-(
+Current Bank:   47
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   5   3   3   2   1   1   1   2   5   1
+   1   1   1   1   2   3   4   2   2   3
+   1   1   2   1   3   4   3   1   1   6
+   6   5   2   2   4   6   6   5   1   4
+   3   5   2   3   4   4   5   1   3   4
+   1   3   3   2   3   3   5   3   3   4
+   2   2   6   3   1   4   3   6   6   1
+   2   6   6   3   2   3   4   4   1   6
+   2   1   6   2   6   2   4   5   5   6
+   6   4   6   5   1   6   6   1   4   5
+   1   3   4   4   3   3   6   1   1   4
+   4   6   4   4   1   4   3   4   6   1
+   1   5   5   6   3   3   4   3   3   5
+
+Initial Bank:   50
+Point Value:    5
+Score:          14
+Payout Amount:  0     You lost.  :-(
+Current Bank:   46
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   1   1   1   5   3   1   2   1   5   6
+   5   4   1   6   2   2   2   3   5   1
+   2   3   3   1   4   3   2   4   3   6
+   6   3   4   4   5   5   5   5   5   3
+   4   1   5   2   6   4   2   6   1   6
+   4   2   3   6   6   4   2   2   1   4
+   5   4   4   1   2   3   5   6   1   1
+   6   2   2   4   1   5   2   2   2   6
+   2   5   5   2   2   4   5   1   3   3
+   2   6   4   6   6   5   6   2   2   4
+   2   6   3   1   3   3   6   2   5   5
+   5   4   4   3   5   3   5   1   4   1
+   1   5   4   4   2   3   1   1   4   6
+
+Initial Bank:   50
+Point Value:    5
+Score:          23
+Payout Amount:  0     You lost.  :-(
+Current Bank:   45
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   4   5   4   4   6   5   3   5   1   6
+   4   4   3   4   6   3   2   4   6   1
+   2   5   4   3   4   5   3   5   6   3
+   4   3   5   2   1   4   6   1   3   4
+   6   6   1   6   3   4   3   3   1   6
+   3   6   2   4   2   6   2   3   4   2
+   3   1   2   1   6   6   5   3   1   1
+   6   4   4   4   2   4   1   2   6   5
+   1   6   4   3   4   6   2   3   2   3
+   2   4   1   4   2   1   3   6   1   1
+   4   1   3   5   2   4   3   3   5   6
+   1   5   4   3   5   5   6   6   1   1
+   2   3   2   1   4   3   1   4   1   5
+
+Initial Bank:   50
+Point Value:    2
+Score:          17
+Payout Amount:  0     You lost.  :-(
+Current Bank:   44
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   4   3   1   3   5   2   3   1   4   6
+   5   2   3   5   1   1   4   4   6   4
+   4   2   3   4   5   6   2   2   6   6
+   4   1   3   2   1   1   1   1   5   4
+   1   1   6   1   6   4   6   3   1   5
+   5   2   4   1   5   6   4   6   5   1
+   6   1   2   6   2   2   6   3   3   2
+   4   1   2   3   5   1   4   4   4   3
+   6   2   4   3   6   3   6   4   6   5
+   4   5   5   5   4   4   5   1   4   5
+   2   2   3   4   2   1   2   4   5   5
+   6   2   4   1   3   4   1   2   5   1
+   4   2   5   6   5   1   4   1   5   5
+
+Initial Bank:   50
+Point Value:    5
+Score:          23
+Payout Amount:  0     You lost.  :-(
+Current Bank:   43
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   1   4   1   2   6   1   3   1   3   6
+   6   5   1   4   1   2   5   6   6   5
+   4   6   1   3   4   5   4   4   4   1
+   6   2   4   4   3   1   4   3   1   5
+   6   4   1   1   2   5   2   6   4   6
+   4   5   5   2   6   2   1   3   3   4
+   1   6   5   5   3   5   3   6   5   4
+   2   5   1   2   3   6   6   2   5   2
+   1   6   6   5   2   5   4   6   6   4
+   3   6   3   5   2   5   1   5   3   3
+   6   4   1   6   4   1   4   1   3   2
+   2   3   6   6   6   5   4   3   4   3
+   5   6   1   1   2   2   6   2   6   6
+
+Initial Bank:   50
+Point Value:    5
+Score:          21
+Payout Amount:  0     You lost.  :-(
+Current Bank:   42
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   3   3   3   1   4   1   4   5   3   3
+   4   4   2   3   3   6   5   3   3   5
+   1   6   5   6   1   1   3   6   4   2
+   2   1   2   2   1   6   6   2   2   3
+   4   5   4   6   6   6   3   4   6   6
+   2   5   3   5   4   2   5   4   5   6
+   5   4   4   6   3   2   5   3   3   4
+   5   5   3   2   4   6   5   4   3   2
+   1   2   6   4   6   1   5   2   4   1
+   6   6   5   3   6   1   3   2   3   3
+   6   5   1   6   6   2   5   2   6   5
+   4   6   4   1   1   4   6   3   3   1
+   4   2   1   2   3   4   6   5   5   3
+
+Initial Bank:   50
+Point Value:    2
+Score:          19
+Payout Amount:  0     You lost.  :-(
+Current Bank:   41
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   2   1   6   1   5   5   3   6   2   5
+   3   2   3   2   6   4   1   3   6   1
+   6   2   1   5   4   4   4   6   1   4
+   4   2   5   1   1   1   6   1   6   5
+   6   1   6   6   2   4   3   6   6   6
+   6   3   1   5   5   2   6   2   1   4
+   4   3   4   6   3   4   6   6   4   5
+   5   1   3   2   4   2   5   6   1   2
+   6   5   4   4   3   2   6   6   2   4
+   2   3   6   5   2   1   2   1   6   3
+   3   2   2   6   2   5   1   6   3   2
+   6   6   4   1   3   4   1   6   3   2
+   4   4   2   3   2   3   3   1   3   1
+
+Initial Bank:   50
+Point Value:    5
+Score:          14
+Payout Amount:  0     You lost.  :-(
+Current Bank:   40
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   3   2   3   2   3   1   1   1   1   6
+   6   6   3   4   3   6   4   6   6   3
+   3   2   4   6   3   6   6   2   6   6
+   3   3   6   5   2   6   3   2   4   4
+   5   1   1   1   5   3   4   2   1   4
+   5   3   5   2   6   5   6   6   4   5
+   3   6   5   6   2   1   6   5   6   3
+   6   5   4   6   3   2   1   5   3   1
+   2   5   3   4   1   1   6   6   6   4
+   2   6   3   5   6   5   5   5   1   2
+   5   6   4   2   3   5   1   3   3   2
+   3   2   6   4   5   6   4   4   3   1
+   1   3   6   4   1   3   6   3   5   6
+
+Initial Bank:   50
+Point Value:    2
+Score:          16
+Payout Amount:  0     You lost.  :-(
+Current Bank:   39
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   4   3   6   3   5   4   2   6   4   3
+   2   5   2   3   3   6   4   4   6   2
+   3   2   6   4   2   2   3   4   1   6
+   6   2   2   3   4   4   4   5   3   1
+   5   3   5   1   3   5   4   1   6   3
+   2   2   5   1   5   4   1   5   2   1
+   4   5   2   3   1   3   1   4   6   3
+   4   4   3   6   2   6   2   5   6   5
+   6   5   1   4   4   3   1   4   2   6
+   2   5   4   1   6   4   3   6   5   6
+   6   6   2   1   5   3   6   4   6   3
+   3   5   1   1   2   2   1   6   5   2
+   4   4   5   1   4   4   3   5   1   5
+
+Initial Bank:   50
+Point Value:    4
+Score:          26
+Payout Amount:  4     You won!  :-)
+Current Bank:   42
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   4   5   5   4   3   6   3   5   5   3
+   5   1   2   3   6   3   3   5   6   5
+   2   3   1   1   1   2   1   5   2   5
+   6   3   3   5   1   4   2   1   6   4
+   4   4   4   5   6   3   5   6   5   4
+   2   1   1   2   5   1   3   3   5   2
+   1   4   3   2   6   1   3   5   1   2
+   2   2   5   5   4   2   1   3   5   6
+   6   1   4   6   2   6   4   3   2   6
+   2   6   2   2   1   1   2   3   4   1
+   2   5   2   4   2   4   5   6   6   4
+   3   3   2   6   1   1   3   4   3   2
+   4   3   2   5   4   6   3   4   1   4
+
+Initial Bank:   50
+Point Value:    4
+Score:          21
+Payout Amount:  0     You lost.  :-(
+Current Bank:   41
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   2   3   3   6   2   6   2   1   3   3
+   4   6   4   1   4   5   2   5   5   3
+   2   5   4   4   3   4   5   6   2   6
+   1   3   6   3   6   1   3   2   2   5
+   2   3   2   6   3   5   2   4   4   6
+   5   3   5   2   5   5   3   1   2   4
+   6   2   5   6   4   4   4   4   3   5
+   1   5   5   2   2   6   5   3   1   6
+   6   5   6   2   1   4   4   1   2   5
+   3   6   4   5   3   6   6   6   3   3
+   3   3   5   1   3   6   6   1   6   1
+   6   3   5   5   5   3   1   2   2   6
+   5   4   5   2   6   1   5   5   1   2
+
+Initial Bank:   50
+Point Value:    4
+Score:          17
+Payout Amount:  0     You lost.  :-(
+Current Bank:   40
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   1   2   3   1   4   6   1   2   3   5
+   1   6   3   4   4   4   2   3   5   1
+   1   6   4   1   5   2   5   3   2   4
+   2   6   4   2   1   1   2   5   3   4
+   3   1   1   3   2   4   6   3   5   2
+   2   5   1   5   3   3   6   6   6   6
+   1   5   5   4   4   3   5   3   1   5
+   5   3   5   5   6   5   1   3   1   5
+   5   6   1   5   2   4   2   2   1   5
+   5   1   1   1   3   4   4   5   5   4
+   3   3   5   5   1   4   1   1   6   2
+   5   4   5   6   1   1   1   6   6   5
+   4   4   3   2   2   5   3   5   3   1
+
+Initial Bank:   50
+Point Value:    5
+Score:          30
+Payout Amount:  10     You won!  :-)
+Current Bank:   49
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   3   3   5   6   4   2   6   2   5   5
+   1   1   4   4   1   2   2   6   1   6
+   1   4   2   6   5   5   2   2   5   3
+   2   6   5   6   3   6   5   6   2   3
+   5   6   1   6   3   1   5   4   4   5
+   1   2   6   2   1   2   4   3   3   3
+   3   2   2   1   1   4   1   3   3   6
+   6   5   5   4   2   1   5   6   2   6
+   4   2   6   1   1   6   3   5   6   5
+   5   2   1   6   1   5   1   5   2   3
+   4   5   6   2   2   5   6   4   5   1
+   4   6   6   1   1   6   6   3   2   4
+   5   6   3   5   3   3   2   3   1   3
+
+Initial Bank:   50
+Point Value:    1
+Score:          22
+Payout Amount:  0     You lost.  :-(
+Current Bank:   48
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   4   5   1   3   4   5   2   2   3   2
+   3   1   5   3   1   3   6   1   4   1
+   5   2   4   2   2   4   3   5   5   3
+   6   6   1   6   1   4   2   2   3   5
+   2   5   3   6   5   3   2   3   3   4
+   3   1   3   6   2   4   4   2   2   6
+   4   5   3   2   2   3   4   4   3   6
+   6   4   3   2   1   5   4   3   1   4
+   4   4   2   6   1   4   3   2   3   3
+   1   1   1   2   2   1   4   5   4   4
+   3   3   1   3   4   2   1   5   2   2
+   2   3   3   3   2   3   4   2   5   1
+   4   3   5   3   4   6   1   6   3   4
+
+Initial Bank:   50
+Point Value:    4
+Score:          26
+Payout Amount:  4     You won!  :-)
+Current Bank:   51
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   3   4   2   5   1   1   3   3   6   4
+   4   2   6   4   3   1   6   2   3   6
+   4   5   4   4   1   1   4   6   1   1
+   6   1   4   5   5   2   5   2   4   4
+   3   5   3   1   6   3   5   5   5   1
+   2   2   5   3   5   5   4   2   2   2
+   6   6   3   1   4   5   2   1   4   3
+   2   1   1   5   5   6   5   3   3   3
+   3   4   2   5   1   4   2   2   3   3
+   1   2   6   3   2   2   6   1   6   3
+   3   1   1   1   3   5   1   2   5   1
+   2   1   4   4   4   2   5   5   1   2
+   5   2   1   5   2   1   6   1   1   5
+
+Initial Bank:   50
+Point Value:    3
+Score:          21
+Payout Amount:  0     You lost.  :-(
+Current Bank:   50
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   2   3   2   2   6   5   6   5   1   6
+   4   6   2   1   3   3   4   1   4   5
+   5   3   3   3   4   3   6   3   2   2
+   4   3   5   3   2   2   5   2   4   6
+   5   1   5   6   6   1   3   3   1   4
+   5   3   6   1   6   1   4   3   3   3
+   5   4   3   1   1   4   2   3   3   3
+   2   2   3   4   1   2   4   1   2   2
+   2   6   5   5   1   2   6   2   2   2
+   2   6   6   4   4   4   5   3   6   2
+   5   2   1   6   3   5   1   1   4   1
+   6   5   6   2   4   4   1   3   3   3
+   2   2   6   5   5   4   2   2   4   6
+
+Initial Bank:   50
+Point Value:    2
+Score:          28
+Payout Amount:  6     You won!  :-)
+Current Bank:   55
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   3   5   1   2   1   5   6   1   6   6
+   5   5   4   4   6   5   5   6   6   5
+   1   1   4   4   6   5   5   5   3   4
+   1   3   2   5   4   3   1   1   1   1
+   5   3   5   2   1   2   4   3   1   3
+   1   5   4   2   2   1   5   5   5   5
+   6   3   1   6   5   2   2   5   6   6
+   5   4   1   1   3   1   2   1   3   6
+   3   1   5   4   2   4   2   6   2   4
+   2   2   4   2   5   2   1   4   1   1
+   3   5   2   1   6   5   1   5   5   1
+   5   5   5   1   1   1   4   2   4   4
+   6   6   3   1   5   1   3   4   4   3
+
+Initial Bank:   50
+Point Value:    3
+Score:          15
+Payout Amount:  0     You lost.  :-(
+Current Bank:   54
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   4   5   3   5   4   1   3   1   3   2
+   5   2   6   5   2   4   6   1   6   1
+   4   3   3   5   5   3   1   2   4   1
+   1   2   5   4   4   3   2   6   3   5
+   5   5   4   5   1   5   6   4   3   5
+   5   1   1   1   3   6   2   3   5   3
+   3   6   4   1   1   5   1   2   3   1
+   6   1   3   1   3   3   5   3   5   6
+   1   3   4   6   3   6   3   2   6   1
+   5   2   6   6   6   4   5   5   6   1
+   3   3   1   4   4   4   4   6   4   2
+   5   4   4   2   1   5   5   3   6   4
+   4   4   3   1   2   3   5   6   5   2
+
+Initial Bank:   50
+Point Value:    2
+Score:          14
+Payout Amount:  0     You lost.  :-(
+Current Bank:   53
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   5   4   4   2   1   5   6   5   2   1
+   1   4   5   3   4   1   1   1   6   3
+   2   2   5   6   3   5   2   2   3   3
+   5   2   5   6   1   3   5   6   1   6
+   5   2   1   3   2   5   3   6   3   6
+   2   2   1   1   5   1   5   1   6   6
+   1   4   5   5   2   5   2   6   5   2
+   3   1   1   4   1   2   6   1   2   6
+   6   1   5   5   1   3   5   4   3   3
+   3   4   4   1   6   5   5   1   4   1
+   1   1   1   1   2   1   1   5   1   6
+   4   5   6   6   3   1   2   5   4   3
+   1   6   4   5   4   3   3   2   4   5
+
+Initial Bank:   50
+Point Value:    6
+Score:          19
+Payout Amount:  0     You lost.  :-(
+Current Bank:   52
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   2   3   1   2   4   6   6   2   4   5
+   3   2   5   2   4   3   1   1   4   3
+   1   3   6   3   4   1   6   5   4   4
+   3   3   6   2   2   1   1   2   6   4
+   6   6   6   2   5   1   4   5   1   1
+   2   6   1   5   2   4   5   1   1   6
+   2   3   2   5   2   2   3   2   3   6
+   4   2   5   1   2   3   1   5   6   6
+   6   5   5   6   3   4   2   6   3   2
+   3   4   2   3   1   4   4   3   3   6
+   1   6   5   5   4   6   6   3   5   5
+   2   2   3   4   5   3   1   4   6   3
+   3   3   5   5   5   5   6   2   5   6
+
+Initial Bank:   50
+Point Value:    1
+Score:          18
+Payout Amount:  0     You lost.  :-(
+Current Bank:   51
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   3   4   3   2   1   1   5   3   3   1
+   2   4   3   3   6   3   4   4   3   4
+   6   5   2   2   1   4   5   2   1   5
+   6   3   2   6   2   2   4   6   3   6
+   6   2   1   6   5   5   3   2   2   3
+   5   5   5   5   1   5   6   5   6   6
+   3   3   1   2   6   2   2   4   6   4
+   1   3   5   6   3   3   4   3   2   5
+   3   5   3   1   1   1   5   6   6   4
+   4   6   4   4   2   1   3   1   2   2
+   4   3   5   6   2   5   1   5   1   6
+   1   3   4   3   3   2   2   5   2   1
+   2   3   4   3   6   3   3   6   3   5
+
+Initial Bank:   50
+Point Value:    5
+Score:          21
+Payout Amount:  0     You lost.  :-(
+Current Bank:   50
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   4   5   4   2   4   2   2   2   6   1
+   2   6   3   2   2   4   3   6   3   1
+   5   5   3   5   2   3   5   2   6   1
+   1   1   5   4   2   2   3   3   1   2
+   2   6   1   2   6   6   3   6   3   6
+   5   5   2   1   1   2   3   5   1   6
+   6   5   1   2   2   2   2   2   3   2
+   3   4   6   1   5   5   4   5   4   6
+   4   6   2   4   6   2   3   1   4   1
+   4   3   5   4   3   6   4   4   1   6
+   3   1   1   2   5   3   4   2   1   6
+   5   3   5   6   6   5   5   6   3   2
+   6   6   3   4   2   5   1   5   2   5
+
+Initial Bank:   50
+Point Value:    2
+Score:          29
+Payout Amount:  8     You won!  :-)
+Current Bank:   57
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   4   3   4   4   1   6   1   2   6   6
+   4   6   5   1   3   1   5   2   3   4
+   5   6   6   2   1   2   6   5   3   4
+   6   5   6   1   2   4   4   6   3   4
+   6   6   1   2   4   4   2   2   5   2
+   4   4   1   1   3   6   3   3   4   5
+   4   2   1   4   2   2   5   6   2   2
+   1   5   5   1   6   3   4   5   2   1
+   6   5   4   4   6   4   3   2   6   5
+   4   4   6   5   5   1   4   3   4   3
+   2   4   5   1   3   4   3   6   2   4
+   6   5   3   1   3   6   5   5   5   2
+   3   2   5   6   4   1   5   2   2   2
+
+Initial Bank:   50
+Point Value:    4
+Score:          28
+Payout Amount:  6     You won!  :-)
+Current Bank:   62
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   3   4   1   3   6   2   5   5   2   1
+   3   6   1   1   2   6   5   5   4   5
+   5   3   1   5   1   2   3   6   3   2
+   5   3   5   5   4   4   5   6   1   6
+   6   1   5   6   1   5   3   4   3   6
+   2   5   1   2   3   5   1   3   2   1
+   3   6   4   1   3   1   3   1   4   1
+   6   4   5   4   3   3   6   4   6   2
+   1   5   1   1   5   1   5   5   2   6
+   4   4   4   1   2   6   5   2   4   2
+   6   3   3   4   4   4   5   4   1   2
+   3   1   1   1   6   3   6   4   1   1
+   2   4   2   3   2   1   2   4   1   3
+
+Initial Bank:   50
+Point Value:    2
+Score:          18
+Payout Amount:  0     You lost.  :-(
+Current Bank:   61
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   4   5   4   6   6   1   4   1   5   5
+   4   6   3   2   5   5   1   6   4   5
+   5   5   6   1   5   5   6   2   3   2
+   3   6   4   5   5   4   5   2   4   4
+   1   5   1   1   1   3   6   1   6   3
+   6   5   1   3   3   5   5   3   5   1
+   2   5   1   6   3   3   1   6   5   2
+   1   3   1   1   3   5   1   6   5   6
+   2   2   2   3   3   5   5   1   1   3
+   6   6   6   4   5   2   6   5   1   2
+   1   1   4   5   5   5   3   5   4   5
+   3   6   1   4   6   1   2   2   5   6
+   3   4   6   2   1   2   1   5   5   2
+
+Initial Bank:   50
+Point Value:    4
+Score:          14
+Payout Amount:  0     You lost.  :-(
+Current Bank:   60
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   3   6   2   1   3   6   1   1   3   5
+   1   6   3   5   3   3   4   3   2   2
+   5   3   1   4   2   6   4   6   4   3
+   5   6   1   6   4   3   3   4   1   4
+   1   2   3   3   6   4   4   1   6   3
+   2   2   3   6   5   4   6   2   3   1
+   3   6   1   3   3   2   5   4   4   5
+   1   4   6   1   4   3   2   5   4   1
+   1   3   2   2   3   4   5   2   6   6
+   2   2   3   6   4   3   2   6   6   5
+   4   6   6   4   5   3   4   6   6   1
+   5   4   4   4   5   4   2   4   5   5
+   1   4   4   3   2   5   5   1   4   5
+
+Initial Bank:   50
+Point Value:    6
+Score:          22
+Payout Amount:  0     You lost.  :-(
+Current Bank:   59
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   1   2   2   2   6   2   6   6   1   4
+   4   3   5   1   1   2   6   4   6   4
+   4   2   1   4   1   5   3   1   2   5
+   3   1   6   2   2   4   1   5   3   6
+   3   4   2   1   2   2   3   2   4   6
+   5   5   5   4   3   5   2   3   5   2
+   1   5   2   6   4   1   3   3   6   3
+   2   2   4   1   6   6   6   2   5   3
+   6   1   6   4   4   2   3   4   2   5
+   3   2   2   4   5   3   2   6   5   1
+   2   4   6   4   2   4   1   2   5   5
+   2   2   3   1   6   5   6   6   6   1
+   2   2   6   3   3   5   4   4   4   6
+
+Initial Bank:   50
+Point Value:    3
+Score:          18
+Payout Amount:  0     You lost.  :-(
+Current Bank:   58
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   3   4   6   4   3   3   4   4   6   6
+   6   1   1   4   4   5   4   3   4   2
+   5   5   2   5   1   4   2   2   1   2
+   4   1   3   2   5   5   4   6   3   1
+   4   6   2   4   3   3   2   4   6   3
+   6   4   1   5   2   5   2   4   6   6
+   3   2   4   5   3   6   3   4   6   3
+   3   1   2   2   4   3   4   5   6   3
+   5   3   4   5   1   6   1   6   1   4
+   5   1   5   1   5   5   6   5   1   3
+   2   3   3   1   2   4   3   5   6   1
+   2   4   3   5   6   2   2   6   1   6
+   4   4   6   6   2   2   3   1   1   1
+
+Initial Bank:   50
+Point Value:    3
+Score:          23
+Payout Amount:  0     You lost.  :-(
+Current Bank:   57
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   6   1   2   6   2   6   1   6   5   1
+   5   3   1   2   2   2   1   6   1   1
+   3   2   4   6   3   6   2   3   6   6
+   2   5   6   4   2   1   1   6   5   5
+   4   3   5   5   2   1   4   3   4   2
+   1   4   3   4   3   5   3   3   6   2
+   2   1   4   2   2   4   2   2   3   6
+   1   5   1   3   3   2   1   4   2   4
+   6   2   1   6   6   4   5   2   4   4
+   2   5   2   3   6   4   4   6   5   1
+   3   3   5   3   6   5   3   6   6   4
+   4   3   6   4   3   3   5   5   4   2
+   2   3   1   3   4   4   4   1   1   3
+
+Initial Bank:   50
+Point Value:    2
+Score:          25
+Payout Amount:  0     You lost.  :-(
+Current Bank:   56
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   4   3   3   4   2   5   4   6   3   6
+   3   5   5   4   5   5   1   3   6   2
+   4   3   6   5   4   2   2   4   2   2
+   3   3   5   3   5   4   6   6   3   2
+   5   3   4   1   5   3   5   5   5   5
+   6   1   5   4   3   2   5   2   5   4
+   4   5   5   6   2   3   3   5   2   4
+   6   5   6   1   5   4   3   4   2   6
+   2   6   6   6   3   6   5   5   1   3
+   2   2   6   6   1   5   6   2   3   6
+   5   6   4   2   6   6   6   3   3   5
+   6   2   2   3   5   2   2   3   6   2
+   4   6   4   3   3   2   1   1   3   3
+
+Initial Bank:   50
+Point Value:    5
+Score:          28
+Payout Amount:  6     You won!  :-)
+Current Bank:   61
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   1   2   1   1   5   6   6   5   1   2
+   4   2   2   6   1   3   5   1   1   5
+   4   4   6   6   4   1   4   4   2   6
+   1   6   5   1   6   2   5   3   6   5
+   5   4   4   6   1   2   6   4   3   6
+   2   4   1   1   2   5   5   5   2   6
+   3   1   6   5   5   5   6   3   2   6
+   5   4   1   3   1   5   4   4   2   6
+   2   1   4   2   5   3   6   4   1   6
+   1   3   6   4   6   2   3   5   5   2
+   2   1   3   2   3   1   5   1   4   6
+   4   5   5   5   1   3   1   4   4   6
+   3   5   6   6   2   5   6   2   4   2
+
+Initial Bank:   50
+Point Value:    6
+Score:          26
+Payout Amount:  4     You won!  :-)
+Current Bank:   64
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   3   2   3   3   5   3   1   3   5   4
+   4   3   2   3   1   5   1   5   2   6
+   5   4   6   3   6   4   2   5   5   3
+   6   6   4   2   2   6   3   2   2   1
+   5   4   1   5   6   2   1   6   6   6
+   4   4   4   3   6   1   4   5   5   1
+   1   2   6   3   2   5   2   4   6   2
+   2   2   5   2   4   2   3   4   5   6
+   4   6   4   1   2   1   5   4   4   1
+   2   4   3   5   4   4   3   4   5   6
+   5   6   1   1   5   5   6   2   6   2
+   1   3   2   2   1   1   1   5   4   4
+   4   3   5   6   1   3   3   1   6   1
+
+Initial Bank:   50
+Point Value:    1
+Score:          21
+Payout Amount:  0     You lost.  :-(
+Current Bank:   63
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   2   4   1   6   2   3   3   1   2   4
+   6   3   5   5   1   6   5   4   1   6
+   1   4   3   6   2   5   6   3   2   4
+   6   1   1   6   4   6   6   6   1   6
+   3   6   6   6   2   6   5   5   3   3
+   4   1   4   6   4   6   2   3   6   1
+   6   5   1   4   3   4   4   6   1   2
+   3   4   5   2   3   6   6   5   4   6
+   1   6   1   5   3   4   2   3   1   5
+   3   4   1   2   6   3   3   3   1   4
+   2   3   5   6   5   5   3   4   3   1
+   3   1   4   1   3   6   5   2   6   3
+   4   3   4   5   2   3   5   4   5   5
+
+Initial Bank:   50
+Point Value:    6
+Score:          29
+Payout Amount:  8     You won!  :-)
+Current Bank:   70
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   6   2   3   3   4   1   6   5   1   4
+   5   6   1   6   2   4   2   2   4   4
+   5   4   1   1   5   2   6   2   6   2
+   1   4   1   3   4   4   4   3   6   4
+   4   5   3   2   2   3   6   1   2   1
+   2   4   4   2   5   2   1   2   1   1
+   3   1   2   4   4   3   5   1   4   5
+   2   1   1   3   3   6   3   6   6   2
+   6   1   5   3   6   1   2   1   2   2
+   5   5   3   4   2   4   6   6   2   3
+   2   3   2   2   3   4   5   3   3   4
+   4   6   4   3   2   4   3   1   2   5
+   2   6   1   4   3   6   1   2   3   6
+
+Initial Bank:   50
+Point Value:    1
+Score:          22
+Payout Amount:  0     You lost.  :-(
+Current Bank:   69
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   5   3   4   4   3   1   3   6   1   6
+   3   6   2   3   5   3   6   5   4   2
+   4   3   6   6   3   5   4   2   1   4
+   4   3   6   1   1   6   5   1   5   3
+   6   2   6   5   2   4   1   1   6   4
+   6   4   4   5   3   6   3   4   2   2
+   1   5   4   4   4   4   4   6   4   2
+   3   2   1   2   6   3   4   5   1   3
+   2   5   4   4   3   4   3   4   2   2
+   5   2   5   2   6   2   4   3   1   5
+   2   1   4   1   3   2   1   6   6   1
+   6   5   5   2   2   6   5   3   3   4
+   4   5   6   2   4   3   1   1   3   6
+
+Initial Bank:   50
+Point Value:    3
+Score:          23
+Payout Amount:  0     You lost.  :-(
+Current Bank:   68
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   4   6   1   2   6   6   2   3   5   3
+   3   4   5   2   3   4   6   5   4   2
+   1   2   5   6   6   1   5   4   3   4
+   1   4   1   6   4   1   5   5   3   4
+   1   3   5   4   4   1   1   2   4   3
+   3   4   4   1   3   3   5   1   1   5
+   2   5   6   3   4   3   1   1   2   1
+   4   6   2   6   3   5   4   2   4   1
+   4   6   4   5   4   5   6   2   3   4
+   6   5   2   6   5   4   2   3   4   3
+   3   5   1   4   4   3   1   5   2   4
+   6   3   2   1   2   5   3   1   1   6
+   4   4   2   3   1   6   4   3   6   1
+
+Initial Bank:   50
+Point Value:    4
+Score:          30
+Payout Amount:  10     You won!  :-)
+Current Bank:   77
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   2   3   3   4   4   4   4   3   3   5
+   2   6   6   6   5   3   3   5   1   2
+   6   4   1   6   5   6   4   5   3   2
+   5   4   5   2   5   6   3   6   2   5
+   3   1   2   2   1   6   2   1   2   2
+   2   5   4   2   5   6   5   6   4   1
+   5   2   2   1   1   5   1   1   4   6
+   6   4   1   1   6   5   5   5   5   6
+   1   4   5   2   3   1   1   5   4   2
+   3   2   1   2   3   2   6   3   6   2
+   6   5   5   6   4   2   2   2   1   4
+   5   5   1   3   4   1   1   4   5   4
+   3   1   6   3   3   6   2   2   6   2
+
+Initial Bank:   50
+Point Value:    3
+Score:          17
+Payout Amount:  0     You lost.  :-(
+Current Bank:   76
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   5   4   6   3   5   5   4   6   5   6
+   3   1   6   3   4   5   4   5   3   5
+   1   4   2   2   4   1   1   3   4   2
+   4   3   4   1   5   2   5   6   6   2
+   5   2   6   3   2   4   1   5   2   3
+   4   1   4   3   2   5   4   6   2   1
+   6   3   1   3   3   5   2   5   3   5
+   4   1   4   4   3   6   5   1   4   4
+   4   5   4   5   2   3   4   3   3   3
+   1   2   5   2   2   5   4   3   1   4
+   2   5   5   5   6   5   4   4   6   6
+   5   1   2   1   3   1   3   4   3   3
+   6   2   2   4   3   1   2   4   2   1
+
+Initial Bank:   50
+Point Value:    1
+Score:          18
+Payout Amount:  0     You lost.  :-(
+Current Bank:   75
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   1   3   4   3   2   6   1   3   3   4
+   1   1   3   1   4   4   2   1   6   2
+   1   5   2   2   5   2   2   3   1   2
+   2   1   4   5   4   5   2   2   5   5
+   5   3   5   1   4   2   4   3   1   2
+   2   5   4   3   6   3   3   1   3   3
+   6   4   4   3   6   5   5   1   6   3
+   5   4   4   2   2   5   1   4   1   1
+   3   6   5   6   3   3   6   3   1   2
+   3   1   5   4   3   2   2   6   1   1
+   6   5   2   3   4   2   1   5   5   5
+   5   5   5   2   2   5   4   2   1   4
+   3   3   4   6   5   5   1   6   4   1
+
+Initial Bank:   50
+Point Value:    2
+Score:          24
+Payout Amount:  0     You lost.  :-(
+Current Bank:   74
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   1   4   2   4   1   3   4   3   5   1
+   2   1   5   1   3   3   4   2   1   5
+   4   1   1   1   5   3   6   5   4   4
+   3   4   5   4   1   6   5   3   2   1
+   3   1   2   5   1   2   5   2   3   5
+   5   4   5   5   3   2   1   2   4   2
+   5   6   5   4   1   4   1   3   4   6
+   4   4   5   3   2   3   2   6   5   2
+   2   3   3   4   5   5   5   3   6   2
+   4   3   5   6   4   6   3   2   2   6
+   5   3   1   3   5   2   6   6   5   2
+   5   6   2   2   2   6   6   6   2   4
+   6   3   4   4   2   1   1   3   6   3
+
+Initial Bank:   50
+Point Value:    1
+Score:          19
+Payout Amount:  0     You lost.  :-(
+Current Bank:   73
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   4   5   1   1   2   6   4   5   3   3
+   4   6   4   5   1   1   4   5   6   1
+   4   2   4   5   1   2   6   3   1   2
+   3   3   4   1   3   5   6   4   4   2
+   6   5   2   1   3   2   1   6   4   6
+   5   1   1   6   4   5   6   3   2   4
+   2   4   6   3   4   6   2   1   3   3
+   3   6   1   2   6   1   1   4   4   5
+   3   2   3   1   6   6   6   5   2   5
+   6   1   2   6   4   3   5   3   1   6
+   3   1   5   1   2   3   1   1   4   2
+   3   1   4   5   5   1   5   2   3   4
+   6   2   3   5   1   4   5   6   6   6
+
+Initial Bank:   50
+Point Value:    6
+Score:          24
+Payout Amount:  0     You lost.  :-(
+Current Bank:   72
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   6   6   5   6   6   5   4   6   3   5
+   2   1   6   4   5   4   2   1   6   4
+   6   2   4   3   6   1   1   3   6   6
+   5   3   6   4   6   3   2   1   2   4
+   3   1   4   3   4   1   6   4   5   4
+   5   2   3   2   4   2   2   5   5   5
+   4   1   1   1   2   4   3   4   4   2
+   5   6   2   1   6   4   5   6   5   3
+   1   3   4   3   2   2   4   1   6   6
+   5   1   1   3   2   6   6   4   3   1
+   6   6   6   5   4   6   6   2   3   4
+   2   3   4   5   3   5   4   6   5   1
+   4   1   2   2   1   3   1   4   4   2
+
+Initial Bank:   50
+Point Value:    3
+Score:          18
+Payout Amount:  0     You lost.  :-(
+Current Bank:   71
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   1   5   2   4   2   1   3   1   1   5
+   2   3   2   4   5   1   6   2   3   6
+   3   2   1   4   2   1   3   6   3   4
+   1   3   2   2   4   1   6   1   5   6
+   5   4   6   4   5   2   4   4   4   5
+   4   6   6   2   2   5   3   4   2   5
+   5   1   5   4   2   3   4   2   1   2
+   5   3   3   5   6   1   6   2   5   1
+   4   6   5   1   1   6   5   3   1   5
+   5   5   5   2   2   4   2   3   5   2
+   2   2   4   4   6   1   4   5   2   6
+   4   3   5   2   3   6   1   2   6   1
+   4   3   3   2   4   4   5   5   4   2
+
+Initial Bank:   50
+Point Value:    4
+Score:          24
+Payout Amount:  0     You lost.  :-(
+Current Bank:   70
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   5   3   5   6   6   5   3   2   5   1
+   5   1   5   6   4   4   4   3   2   2
+   6   4   4   5   1   5   1   3   2   6
+   6   4   6   4   3   5   2   4   5   4
+   4   3   5   2   1   6   4   4   6   5
+   6   5   2   3   1   6   6   1   2   1
+   1   1   3   6   4   5   3   3   6   1
+   1   3   3   3   3   3   2   6   5   5
+   4   4   1   3   4   1   2   3   5   3
+   2   5   1   4   3   4   6   3   4   6
+   3   4   2   3   4   4   4   3   1   2
+   1   2   3   1   4   6   1   3   3   4
+   3   2   6   3   5   2   4   2   4   2
+
+Initial Bank:   50
+Point Value:    4
+Score:          27
+Payout Amount:  5     You won!  :-)
+Current Bank:   74
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   4   3   1   1   5   2   4   1   3   3
+   2   2   5   6   6   4   5   6   4   2
+   1   5   1   3   1   1   5   3   2   4
+   1   6   4   1   6   2   3   1   3   3
+   3   2   2   1   1   5   4   3   5   6
+   4   5   4   3   5   3   3   3   5   4
+   4   5   3   2   4   6   3   4   6   3
+   4   6   4   5   6   3   4   2   5   2
+   1   1   4   2   3   2   2   3   3   6
+   6   6   3   1   1   6   4   2   1   2
+   4   4   1   6   2   5   6   5   6   2
+   4   4   2   1   3   2   1   5   4   3
+   2   2   6   4   2   5   1   5   6   1
+
+Initial Bank:   50
+Point Value:    1
+Score:          22
+Payout Amount:  0     You lost.  :-(
+Current Bank:   73
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   1   4   5   6   4   3   5   2   2   5
+   4   3   6   4   3   6   2   1   3   4
+   1   4   4   2   3   2   3   2   5   1
+   5   5   3   3   5   6   5   1   5   4
+   3   2   4   3   4   5   2   5   3   2
+   3   3   4   4   5   6   3   5   1   1
+   5   4   3   1   4   5   6   1   4   5
+   2   6   6   4   2   1   2   1   6   4
+   1   6   1   4   3   5   3   3   3   2
+   1   5   3   3   6   6   2   3   6   5
+   1   6   4   5   3   4   5   4   2   2
+   1   2   1   5   3   3   1   6   3   1
+   5   3   6   1   6   5   4   1   5   2
+
+Initial Bank:   50
+Point Value:    6
+Score:          17
+Payout Amount:  0     You lost.  :-(
+Current Bank:   72
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   6   1   6   2   3   3   4   4   3   6
+   2   4   6   1   5   1   1   4   3   2
+   6   6   5   4   5   1   1   3   5   2
+   5   2   6   4   3   2   5   5   3   1
+   4   5   2   1   5   6   1   3   1   2
+   2   6   5   6   3   1   6   2   3   5
+   3   5   6   1   2   1   6   4   5   3
+   4   6   1   4   6   3   3   5   5   4
+   6   5   1   4   4   2   2   2   3   4
+   4   3   6   1   3   1   1   3   3   3
+   5   4   2   3   1   6   5   4   4   1
+   5   1   5   5   2   1   4   3   2   6
+   4   5   3   3   5   3   1   4   5   3
+
+Initial Bank:   50
+Point Value:    5
+Score:          24
+Payout Amount:  0     You lost.  :-(
+Current Bank:   71
+
+Play Another Round? (Y/y/N/n): 
+*********************************
+Twenty-Six Game - Round Results: 
+Dice Rolls: 
+   1   5   6   3   5   5   5   6   6   6
+   2   4   2   5   5   2   2   5   1   2
+   2   3   2   2   2   4   2   3   3   3
+   6   3   1   3   4   3   5   2   3   4
+   5   2   1   1   6   3   6   2   1   1
+   1   6   3   2   1   2   5   3   2   5
+   3   2   6   3   2   3   5   1   4   5
+   2   3   1   3   3   4   3   6   5   4
+   4   3   1   5   4   2   6   1   2   6
+   3   4   5   2   4   6   4   2   6   2
+   5   2   4   3   2   4   6   4   1   3
+   5   5   5   4   3   1   5   6   5   6
+   5   1   1   3   3   4   1   6   5   6
+
+Initial Bank:   50
+Point Value:    6
+Score:          19
+Payout Amount:  0     You lost.  :-(
+Current Bank:   70
+
+Play Another Round? (Y/y/N/n): Error, must respond 'Y', 'y', 'N', or 'n'.
+Please try again.
+Play Another Round? (Y/y/N/n): 
+************************************************************
+ Interactive Summary:
+   Initial Bank: 50
+   Final Bank: 70
+   Your a WINNER!!   Yeah!!
+
+************************************************************
+
+
+Error, invalid bank amount.
+Error, invalid initial bank amount value.
+No changes made.
+
+************************************************************
+Non-interactive game simulation.
+Display Game Details? (Y/y/N/n): 
+************************************************************
+ Simulation Summary:
+
+--------------------------------------------------
+   Results, Game (1):
+   Initial Bank: 30
+   Final Bank: 61   Winning strategy!!
+
+--------------------------------------------------
+   Results, Game (2):
+   Initial Bank: 200
+   Final Bank: 0   Losing strategy...
+
+--------------------------------------------------
+   Results, Game (3):
+   Initial Bank: 200
+   Final Bank: 301   Winning strategy!!
+
+--------------------------------------------------
+   Results, Game (4):
+   Initial Bank: 100
+   Final Bank: 0   Losing strategy...
+
+--------------------------------------------------
+   Results, Game (5):
+   Initial Bank: 200
+   Final Bank: 0   Losing strategy...
+
+
+

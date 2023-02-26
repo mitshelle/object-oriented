@@ -1,0 +1,42 @@
+//reset str
+    temp = "";
+    notCleaned = "";
+    hasNum = false;
+    //lowercase word
+    makeLower(word[i]);
+    //clean out punctuation
+    for(unsigned int k = 0; k < word[i].length(); k++){
+      //to write out original
+      if(word[i][k] < 'a' && !(word[i][k] >= '0' && word[i][k] <= '9')){
+        notCleaned = word[i];
+      }
+      //to remove punctuation from words
+      if(word[i][k] >= 'a' && word[i][k] <= 'z'){
+        temp = temp + word[i][k];
+      }
+      //to remove puncuation from numbers
+      if(word[i][k] >= '0' && word[i][k] <= '9'){
+        temp = temp + word[i][k];
+        hasNum = true;
+      }
+    }
+    //set word to cleaned word
+    word[i] = temp;
+    //if there was no cleaning restart
+    if(notCleaned == "" && !hasNum){
+        continue;
+    }
+    //write out if input was y
+    if(input == "y"){
+        oFile << notCleaned << "                   --> ";
+        oFile << word[i] << endl;
+        if(hasNum){
+        	oFile << word[i] << "                    --> ";
+        	word[i] = "NONALPHA";
+        	oFile << word[i] << endl;
+      } 
+    }
+    if(hasNum){
+      word[i] = "NONALPHA";
+    }
+  }
