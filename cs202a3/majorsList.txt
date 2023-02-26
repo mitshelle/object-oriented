@@ -1,0 +1,223 @@
+AAD - Architecture Design 
+AAE - Architecture 
+AAI - Interior Design 
+AAL - Landscape Architecture 
+AAP - Urban Planning 
+AAS - Afro-American Studies 
+ABS - Architecture Building Science 
+ACA - Architecture Construction Mgmt 
+ACC - Accounting 
+AES - Aerospace Studies 
+AHP - Allied Health 
+AIS - Asian Studies 
+ANT - Anthropology 
+ANTH - Anthropology 
+ARA - Arabic 
+ART - Art 
+AST - Astronomy 
+ATE - Athletic Training 
+BGES - Business Global Entrepeneurial 
+BIO - Biological Sciences 
+BLW - Business Law 
+BUS - Business Administration 
+CED - Counselor Education 
+CEE - Civil Engineering 
+CEG - Civil Engineering 
+CEM - Construction Management 
+CEP - Counseling & Educ Psych 
+CFA - College of Fine Arts 
+CHE - Chemistry 
+CHI - Chinese 
+CIE - Curric & Instruct: Elementary 
+CIG - Curric & Instruct: General 
+CIL - Curric & Instruct: Literacy 
+CIM - Curric & Instruct: Media 
+CIR - Curric & Instruct: Read 
+CIS - Curric & Instruct: Secondary 
+CIT - Curric & Instruct: Technology 
+CITR - Curric & Instruct: Tech RPDP 
+CLA - Classical Studies 
+CLS - Clinical Laboratory Science 
+CMI - Comprehensive Medical Imaging 
+CNS - Consciousness Studies 
+COE - College of Education 
+COL - Comparative Literature 
+COLA - College of Liberal Arts 
+COM - Communication Studies 
+COS - Communication Studies 
+COU - Counseling 
+CPE - Computer Engineering 
+CPS - Counseling 
+CRJ - Criminal Justice 
+CS - Computer Science 
+CSC - Computer Science 
+CST - Cultural Studies 
+DAN - Dance 
+DEN - Dentistry 
+DES - Design 
+DMS - Diagnostic Medial Sonography 
+DPT - Physical Therapy 
+EAB - Bio Methods 
+ECD - Educ Career & Personal Devel 
+ECE - Early Childhood 
+ECEM - Emergency Management 
+ECG - Electrical And Computer Engine 
+ECH - Early Childhood 
+ECO - Economics 
+ECON - Economics 
+EDA - Educational Administration 
+EDCT - Career Education 
+EDEL - Education: Elementary 
+EDH - Educational Leadership Phd 
+EDMS - Education: Middle School 
+EDRL - Education: Reading & Language 
+EDSC - Education: Secondary 
+EDSP - Special Education 
+EDU - Education 
+EDUC - Education: Upper Division 
+EDW - Workforce Education 
+EDWF - Workforce Education 
+EE - Electrical And Computer Engine 
+EED - Entertainment Engineering 
+EEG - Electrical Engineering 
+EGG - Engineering 
+EMBA - Executive Masters 
+ENG - English 
+ENGL - English 
+ENS - Environmental Science 
+ENV - Environmental Studies 
+EOH - Env/Occ Health 
+EPC - Educational Psychology 
+EPP - Educational Psychology 
+EPS - Ethics And Policy Studies 
+EPY - Educational Psychology 
+ESE - Secondary Education 
+ESL - English As A Second Language 
+ESP - Special Education 
+ESR - Secondary Education Reading 
+ETS - Ethnic Studies 
+EXL - Excell Pgrm 
+FAB - Food & Beverage 
+FIN - Finance 
+FIS - Film 
+FOL - Foreign Language 
+FRE - French 
+FREN - French 
+GAM - Gaming Management 
+GEOG - Geography 
+GEOL - Geology 
+GER - German 
+GRA - Graduate College 
+GRE - Greek 
+GSC - General Studies Communication 
+GWK - Great Works Certificate 
+HCA - Health Care Administration 
+HEB - Hebrew 
+HED - Health Education 
+HIS - History 
+HIST - History 
+HMD - Hotel Management 
+HOA - Hotel Administration 
+HON - Honors 
+HPS - Health Physics 
+HSC - Health Science 
+IB - International Business 
+ICE - Curric & Instruct: Elementary 
+ICG - Curric & Instruct: Genereral 
+ICS - Instruction & Curricular Stud 
+IDS - Interdisciplinary Studies 
+INF - Informatics 
+IPG - International Programs 
+IS - Management Information Systems 
+ITA - Italian 
+ITAL - Italian 
+JAP - Japanese 
+JMS - Journalism & Media Studies 
+JOUR - Journalism & Media Studies 
+JPN - Japanese 
+KIN - Kinesiology 
+LAND - Landscape Architecture 
+LAS - Latin American Studies 
+LAT - Latin 
+LAW - Law 
+LBS - Liberal Studies 
+LIB - Library Science 
+LIN - Linguistics 
+MAT - Mathematics 
+MATH - Mathematics 
+MBA - Master Business Administration 
+ME - Mechanical Engineering 
+MEG - Mechanical Engineering 
+MFT - Marriage & Family Therapy 
+MGT - Management 
+MIL - Military Science 
+MIS - Management Information Systems 
+MKT - Marketing 
+MSC - Military Science 
+MSFS - Multidisc: Forensic Science 
+MUS - Music 
+MUSA - Music 
+MUSC - Music 
+MUSE - Music 
+NRES - Environmental Studies 
+NSE - National Student Exchange 
+NTR - Nutrition Sciences 
+NUC - Nuclear Medicine 
+NUE - Nuclear Engineering 
+NUR - Nursing 
+NURS - Nursing 
+NUTR - Nutrition Sciences 
+ORTH - Orthodontics 
+PAF - Public Affairs 
+PBH - Public Health 
+PED - Physical Education 
+PEDO - Pediatric Dentistry 
+PER - Persian 
+PEX - Physical Education: Activity 
+PGDE - Postgraduate Dental Education 
+PGM - PGA Golf Management 
+PHI - Philosophy 
+PHIL - Philosophy 
+PHS - Physical Sciences 
+PHT - Physical Therapy 
+PHY - Physics 
+PHYS - Physics 
+PORT - Portuguese 
+POS - Political Science 
+PSY - Psychology 
+PTG - Portuguese 
+PTS - Physical Therapy Science 
+PUA - Public Administration 
+RAD - Radiologic Technology 
+RDCH - Radiochemistry 
+RE - Real Estate 
+REC - Recreation
+REG - Religious Studies 
+RLS - Recreation & Sport Management 
+RPDP - Reg Professional Development 
+RSC - Radiological Sciences 
+RUS - Russian 
+SCI - Science 
+SCM - Supply Chain 
+SIM - Sports Injury Management 
+SLS - Sport & Leisure Studies 
+SOC - Sociology 
+SPA - Spanish 
+SPAN - Spanish 
+STA - Statistics 
+STAT - Statistics 
+SW - Social Work 
+SWK - Social Work 
+TCA - Tourism 
+TESL - English as a Second Language 
+THA - Theatre Arts 
+THTR - Theatre Arts 
+TRCR - Transferred Elective Credit
+ULD - Urban Leadership 
+UNS - University Studies 
+WDL - Workforce Development 
+WMST - Women's Studies 
+WOM - Women's Studies
+WRM - Water Resources Management
+UND - Undeclared
+
